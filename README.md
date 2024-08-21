@@ -23,4 +23,4 @@ To view and develop the Two_Prime website locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Two_Prime.git
+   git clone https://github.com/srxvna/Two_Prime.git
