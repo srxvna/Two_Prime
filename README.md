@@ -1,5 +1,5 @@
 # Two_Prime
-**Live-Prrview:** https://srxvna.github.io/Two_Prime/
+https://srxvna.github.io/Two_Prime/
 **Two_Prime** is a modern, front-end educational website designed to provide an interactive and engaging learning experience. Built with HTML, CSS, and JavaScript, Two_Prime offers a sleek user interface and dynamic features to facilitate online education.
 
 ## Features
